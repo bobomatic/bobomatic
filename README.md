@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobomatic
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in Python
 - 📫 How to reach me boxjellyone@tutanota.com
 
